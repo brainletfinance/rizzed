@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ace826b50ea66084ec004680352e74ce",
+    "revision": "6de00d41f1455ad73b0fb4d3007d7684",
     "url": "./index.html"
   },
   {
-    "revision": "3b21d24231dc73ac0469",
+    "revision": "f53d17813854d25964c3",
     "url": "./static/css/main.1359096b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/js/2.60f7eef0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3b21d24231dc73ac0469",
-    "url": "./static/js/main.1d967ada.chunk.js"
+    "revision": "f53d17813854d25964c3",
+    "url": "./static/js/main.6537036b.chunk.js"
   },
   {
     "revision": "63207fbe366982e18e93",
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/analytics.21a69adb.svg"
   },
   {
-    "revision": "0a0302cb06d663f821ab5f10b21f6c58",
-    "url": "./static/media/arbiFluxLogo.0a0302cb.svg"
+    "revision": "29dc37b50b8a83f3c6906185b36a1a6c",
+    "url": "./static/media/arbiFluxLogo.29dc37b5.svg"
   },
   {
     "revision": "e65e536f7273b6e034a6a4b0094d97ba",

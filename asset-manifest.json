@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "./static/css/main.1359096b.chunk.css",
-    "main.js": "./static/js/main.1d967ada.chunk.js",
+    "main.js": "./static/js/main.6537036b.chunk.js",
     "runtime-main.js": "./static/js/runtime-main.9c2a5ade.js",
     "static/js/2.60f7eef0.chunk.js": "./static/js/2.60f7eef0.chunk.js",
     "index.html": "./index.html",
-    "precache-manifest.da7569e5fd49792056aa1ec2a46446b2.js": "./precache-manifest.da7569e5fd49792056aa1ec2a46446b2.js",
+    "precache-manifest.505b6eb67c5928e7397e20718ebce3c1.js": "./precache-manifest.505b6eb67c5928e7397e20718ebce3c1.js",
     "service-worker.js": "./service-worker.js",
     "static/js/2.60f7eef0.chunk.js.LICENSE.txt": "./static/js/2.60f7eef0.chunk.js.LICENSE.txt",
     "static/media/analytics.svg": "./static/media/analytics.21a69adb.svg",
-    "static/media/arbiFluxLogo.svg": "./static/media/arbiFluxLogo.0a0302cb.svg",
+    "static/media/arbiFluxLogo.svg": "./static/media/arbiFluxLogo.29dc37b5.svg",
     "static/media/arbitrum.svg": "./static/media/arbitrum.e65e536f.svg",
     "static/media/bitcoin.svg": "./static/media/bitcoin.c208548d.svg",
     "static/media/community.svg": "./static/media/community.ce3c92c2.svg",
@@ -36,6 +36,6 @@
     "static/js/runtime-main.9c2a5ade.js",
     "static/js/2.60f7eef0.chunk.js",
     "static/css/main.1359096b.chunk.css",
-    "static/js/main.1d967ada.chunk.js"
+    "static/js/main.6537036b.chunk.js"
   ]
 }
