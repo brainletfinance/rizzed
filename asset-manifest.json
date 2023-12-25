@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "./static/css/main.1359096b.chunk.css",
+    "main.js": "./static/js/main.3d9f8522.chunk.js",
+    "runtime-main.js": "./static/js/runtime-main.9c2a5ade.js",
+    "static/js/2.60f7eef0.chunk.js": "./static/js/2.60f7eef0.chunk.js",
+    "index.html": "./index.html",
+    "precache-manifest.d86389f69d4cdba898e12620a608ca98.js": "./precache-manifest.d86389f69d4cdba898e12620a608ca98.js",
+    "service-worker.js": "./service-worker.js",
+    "static/js/2.60f7eef0.chunk.js.LICENSE.txt": "./static/js/2.60f7eef0.chunk.js.LICENSE.txt",
+    "static/media/analytics.svg": "./static/media/analytics.21a69adb.svg",
+    "static/media/arbiFluxLogo.svg": "./static/media/arbiFluxLogo.0a0302cb.svg",
+    "static/media/arbitrum.svg": "./static/media/arbitrum.e65e536f.svg",
+    "static/media/bitcoin.svg": "./static/media/bitcoin.c208548d.svg",
+    "static/media/community.svg": "./static/media/community.ce3c92c2.svg",
+    "static/media/discord.svg": "./static/media/discord.40a0cbab.svg",
+    "static/media/discordWhite.svg": "./static/media/discordWhite.792c98c9.svg",
+    "static/media/ecosystem.svg": "./static/media/ecosystem.cd6d23aa.svg",
+    "static/media/ecosystemL2.svg": "./static/media/ecosystemL2.c026e8ed.svg",
+    "static/media/ethereumPurple.svg": "./static/media/ethereumPurple.95bd9f3e.svg",
+    "static/media/fluxLogo.svg": "./static/media/fluxLogo.67a1807e.svg",
+    "static/media/lock.svg": "./static/media/lock.0a6b20ed.svg",
+    "static/media/logo.svg": "./static/media/logo.8a82adae.svg",
+    "static/media/medium.svg": "./static/media/medium.9d6d7b7d.svg",
+    "static/media/metamask.svg": "./static/media/metamask.d2e982e8.svg",
+    "static/media/oneInch.svg": "./static/media/oneInch.45f53cb9.svg",
+    "static/media/pool.svg": "./static/media/pool.fc2b89e1.svg",
+    "static/media/poolL2.svg": "./static/media/poolL2.487dd842.svg",
+    "static/media/smartContract.svg": "./static/media/smartContract.b865f774.svg",
+    "static/media/sushiSwap.svg": "./static/media/sushiSwap.f9b6d3cd.svg",
+    "static/media/synergy.svg": "./static/media/synergy.662e1abc.svg",
+    "static/media/uniswap.svg": "./static/media/uniswap.a7241cd9.svg",
+    "static/media/walletconnect.svg": "./static/media/walletconnect.26afecf0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c2a5ade.js",
+    "static/js/2.60f7eef0.chunk.js",
+    "static/css/main.1359096b.chunk.css",
+    "static/js/main.3d9f8522.chunk.js"
+  ]
+}
