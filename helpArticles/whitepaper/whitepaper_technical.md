@@ -281,7 +281,7 @@ If Ethereum block times change significantly in the future then the entire FLUX 
  */
 uint256 immutable private _startTimeReward;
 ```
-To start receiving the time bonus (reward of which is capped at 3x a person will need to wait this many blocks). This is set to ~24 hours on mainnet and prevents users from locking-in Datamine (DAM) tokens for a short duration. Once again, our goal here is incentivized security where we want you to lock-in your tokens for months at a time.
+To start receiving the time bonus (reward of which is capped at 20x a person will need to wait this many blocks). This is set to ~24 hours on mainnet and prevents users from locking-in Datamine (DAM) tokens for a short duration. Once again, our goal here is incentivized security where we want you to lock-in your tokens for months at a time.
 
 ```Solidity
 /**
@@ -289,7 +289,7 @@ To start receiving the time bonus (reward of which is capped at 3x a person will
  */
 uint256 immutable private _maxTimeReward;
 ```
-Used in time reward multiplier math as the maximum reward point. This is set to ~28 days so if you lock-in your DAM tokens for this duration you will receive the maximum 3x time reward bonus.
+Used in time reward multiplier math as the maximum reward point. This is set to ~28 days so if you lock-in your DAM tokens for this duration you will receive the maximum 20x time reward bonus.
 
 ```Solidity
 /**
@@ -369,7 +369,7 @@ You can burn FLUX to get up to 10x burn multiplier. This is that number and is u
 /**
  * @dev This is our max 3x DAM lock-in time multiplier. It's multiplicative with the burn multiplier.
  */
-uint256 private constant _maxTimeMultiplier = 30000;
+uint256 private constant _maxTimeMultiplier = 200000;
 ```
 You can get up to 3x DAM lock-in time multiplier. This number is divided by `_percentMultiplier` constant.
 

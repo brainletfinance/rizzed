@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "./static/css/main.1359096b.chunk.css",
-    "main.js": "./static/js/main.6537036b.chunk.js",
+    "main.js": "./static/js/main.7e3b0cfc.chunk.js",
     "runtime-main.js": "./static/js/runtime-main.9c2a5ade.js",
-    "static/js/2.60f7eef0.chunk.js": "./static/js/2.60f7eef0.chunk.js",
+    "static/js/2.6b73f820.chunk.js": "./static/js/2.6b73f820.chunk.js",
     "index.html": "./index.html",
-    "precache-manifest.505b6eb67c5928e7397e20718ebce3c1.js": "./precache-manifest.505b6eb67c5928e7397e20718ebce3c1.js",
+    "precache-manifest.b943a0ff85c12cbbdf7105ff49f6e947.js": "./precache-manifest.b943a0ff85c12cbbdf7105ff49f6e947.js",
     "service-worker.js": "./service-worker.js",
-    "static/js/2.60f7eef0.chunk.js.LICENSE.txt": "./static/js/2.60f7eef0.chunk.js.LICENSE.txt",
+    "static/js/2.6b73f820.chunk.js.LICENSE.txt": "./static/js/2.6b73f820.chunk.js.LICENSE.txt",
     "static/media/analytics.svg": "./static/media/analytics.21a69adb.svg",
     "static/media/arbiFluxLogo.svg": "./static/media/arbiFluxLogo.29dc37b5.svg",
     "static/media/arbitrum.svg": "./static/media/arbitrum.e65e536f.svg",
@@ -34,8 +34,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.9c2a5ade.js",
-    "static/js/2.60f7eef0.chunk.js",
+    "static/js/2.6b73f820.chunk.js",
     "static/css/main.1359096b.chunk.css",
-    "static/js/main.6537036b.chunk.js"
+    "static/js/main.7e3b0cfc.chunk.js"
   ]
 }
